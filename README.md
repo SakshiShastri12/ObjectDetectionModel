@@ -33,14 +33,17 @@ This deep learning project leverages YOLO to detect and classify different types
 ✅ Achieved high accuracy distinguishing between candy types  
 ✅ Used **transfer learning** to speed up training and boost accuracy
 
-## 🚀 Results
+## 🚀 Results/ demo
+<video controls src="object_detection_video-1.mp4" title="Demo"></video>
 
-
+![alt text](confusion_matrix_normalized.png)
 
 🧠 Learnings
+
 Working with a small custom dataset taught me a lot about data quality and augmentation.
 YOLOv5's speed and performance make it ideal for real-time applications—even in sweet scenarios like this one!
 
 🤔 Got Ideas?
+
 Have a cool dataset or object detection idea in mind? Let’s collaborate or discuss it—feel free to open an issue or connect on LinkedIn!
 
