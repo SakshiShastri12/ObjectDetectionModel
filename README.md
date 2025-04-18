@@ -34,7 +34,8 @@ This deep learning project leverages YOLO to detect and classify different types
 ✅ Used **transfer learning** to speed up training and boost accuracy
 
 ## 🚀 Results/ demo
-<video controls src="object_detection_video-1.mp4" title="Demo"></video>
+![Candy Detection Demo](candy_detection_demo.gif)
+
 
 ![alt text](confusion_matrix_normalized.png)
 
